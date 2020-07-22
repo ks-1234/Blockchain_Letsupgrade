@@ -1,0 +1,33 @@
+                                                                           Day 1 Assignment
+
+1.What is your understanding of blockchain?
+
+Blockchain is a ledger, Which is encrypted and saved in distributed database.This give security, immutability, verifiability.
+
+2.What is the core problem blockchain trying to solve?
+
+*Authenticity 
+*The dependence of a centralized head or a third party
+*Security
+
+3.What are the few features which Blockchain will give you?
+
+*Verifiable
+*Unchangeable
+*Tamper-proof
+*Immutable
+*Internet 2.0
+
+4.What all things does a Block contain?
+
+*Block Number 
+*Data to be stored
+*Previous Block key
+*Mining key
+
+5.How the verifiability of Blockchain has been attained?
+
+*In blockchain the data is stored in a distributed database in form of blocks.And every block will generated a unique code for the data.
+*This block with unique code will be stored. And will check whether all the code in every block in every system is same.
+*If Any change happens then the code generated will be different.The mismatch in the code of this system with every other system will alert that something is changed.
+*By this way blockchain implements verifiability.
